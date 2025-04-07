@@ -15,6 +15,6 @@ iwr https://deno.land/install.ps1 -useb | iex
 ## Run Jupyter command
 deno jupyter --unstable
 
-## jupyter kernelspec list
+## Verify kernel installation
 jupyter kernelspec list
 
