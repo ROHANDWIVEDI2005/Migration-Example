@@ -7,8 +7,9 @@
 - **Jupyter**: Jupyter Notebook or JupyterLab must be installed.
 
 ## for macOS and Linux:
+```
 curl -fsSL https://deno.land/install.sh | sh
-
+```
 ## for windows Powershell
 ``` bash
 iwr https://deno.land/install.ps1 -useb | iex
