@@ -10,11 +10,14 @@
 curl -fsSL https://deno.land/install.sh | sh
 
 ## for windows Powershell
+``` bash
 iwr https://deno.land/install.ps1 -useb | iex
-
+```
 ## Run Jupyter command
+``` cmd
 deno jupyter --unstable
-
+```
 ## Verify kernel installation
+```cmd
 jupyter kernelspec list
-
+```
