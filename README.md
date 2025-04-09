@@ -4,7 +4,7 @@
 
 ## Prerequisites
 - **Operating System**: Windows, macOS, or Linux.
-- **Jupyter**: Jupyter Notebook or JupyterLab must be installed (see Step 1 if not).
+- **Jupyter**: Jupyter Notebook or JupyterLab must be installed.
 
 ## for macOS and Linux:
 curl -fsSL https://deno.land/install.sh | sh
