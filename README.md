@@ -1,5 +1,5 @@
 # Migration-Example
-- This repository contains an example of migration of a Gemini API example from Python To Javascript using Deno.
+- This repository contains an example of migration of a Gemini API example from Python To Javascript using Deno and Jupyter notebook.
 ---
 
 ## Prerequisites
