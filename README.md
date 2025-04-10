@@ -23,8 +23,6 @@ deno jupyter --unstable
 jupyter kernelspec list
 ```
 **Add dependencies using the deno.json file**
-
-## Install requirments using deno.json 
 **For example**
 ```
 {
